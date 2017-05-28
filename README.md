@@ -11,3 +11,8 @@ Binaries that allow to prevent `x86_64` mismatch:
 	/Users/user/Library/Developer/Xcode/DerivedData/APP-cqopmrtpghfcazaoxnnscwqnmgzg/Build/Products/Debug-iphonesimulator/StagingUITests-Runner.app/PlugIns/StagingUITests.xctest/Frameworks/FBSnapshotTestCase.framework/Frameworks/libswiftCore.dylib: no matching architecture in universal wrapper)
 
 ```
+
+## Notes
+
+Make sure to remove your Derived data before trying again:
+`~/Library/Developer/Xcode/DerivedData`
